@@ -3,7 +3,7 @@
 </p>  
 
 __GitHub: @Pierregarnr__    
-__LinkedIn: @Pierre Garnier__  
+__LinkedIn: [@Pierre Garnier](https://www.linkedin.com/in/pierre-garnier-50650824b/)__  
 
 Projet 6 - Construisez une API sécurisée pour une application d'avis gastronomiques   
 Hot takes est une application d'évaluation de sauces piquantes en ligne, ou tout le monde peut poster/liker leurs sauces favorites.
