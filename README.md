@@ -9,8 +9,7 @@ Projet 6 - Construisez une API sécurisée pour une application d'avis gastronom
 Hot takes est une application d'évaluation de sauces piquantes en ligne, ou tout le monde peut poster/liker leurs sauces favorites.
 
 * Compétences évaluées 
-* Gérer des événements JavaScript 
-* Valider des données issues de sources externes 
-* Créer un plan de test pour une application 
-* Interagir avec un web service avec JavaScript 
-* Respecter les spécifications fonctionnelles et techniques
+* Mettre en œuvre des opérations CRUD de manière sécurisée
+* Implémenter un modèle logique de données conformément à la réglementation
+* Stocker des données de manière sécurisée
+
